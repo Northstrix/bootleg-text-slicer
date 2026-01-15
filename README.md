@@ -4,7 +4,7 @@ Text transcription & slicing tool with visual timeline and WAV output. I made it
 
 ### Overview
 The script allows users to:
-- Transcribe an audio file into individual words with timestamps.
+- Transcribe an audio file into individual words.
 - Display and interact with each word’s start and end positions on a visual timeline or within the "Review Dashboard."
 - Adjust timing offsets for the beginning and end of each word either globally or individually.
 - Play full audio or specific words directly from within the app.
